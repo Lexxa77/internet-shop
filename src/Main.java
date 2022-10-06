@@ -4,9 +4,9 @@ public class Main {
         vasyaBasket.add("Молоко", 80, 1.5);
         vasyaBasket.add("Хлеб", 40, 0.4);
 
-        Basket petyaBasket = new Basket(5000);
+        Basket petyaBasket = new Basket(50000);
         petyaBasket.add("Лопата", 2800, 2.5);
-        petyaBasket.add("Бочка", 2900, 18);
+        petyaBasket.add("Бочка", 2900, 10.0);
 
         Basket mashaBasket = new Basket("Стол", 5000, 22);
 
